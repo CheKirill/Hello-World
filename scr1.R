@@ -1,1 +1,1 @@
-rm <- matrix(rnorm(300), 100, 300)
+rmm <- matrix(rnorm(30), 5, 6)
